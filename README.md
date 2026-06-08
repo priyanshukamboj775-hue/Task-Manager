@@ -10,8 +10,8 @@ A clean, full-stack task manager built with **Node.js + Express** on the backend
 
 | Service  | URL |
 |----------|-----|
-| Frontend | _Add your Vercel/Netlify URL here_ |
-| Backend  | _Add your Render URL here_ |
+| Frontend | https://task-manager-pi-orpin.vercel.app |
+| Backend  | https://task-manager-api-wxea.onrender.com |
 
 ---
 
